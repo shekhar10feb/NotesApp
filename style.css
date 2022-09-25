@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .newDiv {
+    width: 11rem;
+  }
+  
+  .btns {
+    color: #fff;
+    background-color: blue;
+    border: none;
+    margin: 0.3rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .btns:hover {
+    background-color: #ffc107;
+    color: #fff;
+    transform: translateY(-1px);
+  }
+  
+  .btns1 {
+    color: #fff;
+    font-size: 0.8rem;
+    background-color: blue;
+    border: none;
+    margin: 0.3rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .btns1:hover {
+    background-color: #ffc107;
+    color: #fff;
+    transform: translateY(-1px);
+  }
+  
+  
